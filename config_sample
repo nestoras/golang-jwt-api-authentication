@@ -1,0 +1,17 @@
+{
+  "port": ,
+  "env": "dev",
+  "pepper": "",
+  "hmac_key": "",
+  "database": {
+    "host": "",
+    "port": ,
+    "user": "",
+    "password": "",
+    "name": ""
+  },
+  "jwt": {
+    "private": "",
+    "public": ""
+  }
+}
